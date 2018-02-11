@@ -10,6 +10,7 @@ No documentation is provided. Try to complete the challenges below.
 <sub><sup>Trying to deobfuscate or debug the source code is cheating, and sharing large amounts of Mys syntax secrets ruins the fun for all future users. The point of the language is for new users to discover things for themselves. Don't ruin it for others. If you don't like that, then stop using Mys and ignore this whole thing.</sup></sub>
 
 You should submit your source [here](https://goo.gl/forms/aLqKzsJaF54SBiBP2) if you accomplish a challenge. Do not post it or anything, because then people might figure out the syntax. (Hopefully you understand the point of Mys by now. The syntax is supposed to by a *mys*tery)
+
 **Challenge progression**
 
 * "Hello, world!", in under 200 bytes (if it takes you more than 200 bytes to do it anyways, you have probably found a bug in the language that should be reported via PM)
