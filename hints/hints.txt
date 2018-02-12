@@ -1,0 +1,13 @@
+For filthy cheaters only. :P
+
+These are encoded in base64, so that you can use one of the hints without using all of them.
+
+Hint #1: VGhlIGFieXNzIGRvZXMgbm90IGV4aXN0LiBUaGUgbGFzdCBsaW5lIGlzIGEgbGllLCB0b28uIFRoZXNlIGFyZSB0aGUgb25seSBoaW50cyB5b3UgZ2V0Lg==
+
+Hint #2: TXlzIGRvZXMgbm90IHVzZSBhbnkgbGV0dGVycyBpbiBpdHMgc3ludGF4Lg==
+
+Hint #3: QCNAIGlzIG9uZSBvZiBvbmx5IHR3byBwb3NzaWJsZSAzLWNoYXJhY3RlciBwcm9ncmFtcy4=
+
+Hint #4: SWYgeW91IGFyZSBjb25mdXNlZCBhYm91dCB3aGF0IGl0IGRvZXMsIGNoZWNrIHRoZSBjb2RlIGNoYXJ0IGxpbmtlZCBpbiBteSBDZW1ldGVjaCBwb3N0LiBJdCdzIGltcG9ydGFudC4=
+
+Hint #5: SG9yaXpvbnRhbCB0ZXh0IGlzIGRlZmluaXRlbHkgcG9zc2libGUuIFlvdSBuZWVkIHRvIGRvIHNvbWV0aGluZyBhdCB0aGUgc3RhcnQgb2YgdGhlIGNvZGUsIHRob3VnaC4=
