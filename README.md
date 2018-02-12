@@ -26,4 +26,6 @@ You should submit your source [here](https://goo.gl/forms/aLqKzsJaF54SBiBP2) if 
 
 Have fun. [Link to interpreter](https://legend-of-iphoenix.github.io/Mys/)
 
-If you are stuck, [use a hint](https://pastebin.com/raw/gSwckuxN).
+If you are stuck, [use a hint](https://legend-of-iphoenix.github.io/Mys/hints/hints.txt).
+
+Found a bug? Use the challenge submission form, but say that the challenge is "bug report".
