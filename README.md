@@ -19,7 +19,7 @@ You should submit your source [here](https://goo.gl/forms/aLqKzsJaF54SBiBP2) if 
 * More challenges coming as I create them.
 * Print out every even character twice (Like BBDDFFHH, but with the first 255 utf-8 chars.)
 * Print out every odd character twice (Like AACCEEGG, but with the first 255 utf-8 chars.)
-* Create a binary counter
+* Create a binary counter, counting from 0 to 256 (inclusive) in less than or exactly 50 characters. The counter should be right-centered, because place value.
 
 
 [Completed Challenges](https://docs.google.com/spreadsheets/d/1-9wV0dQFavWaymWsuEeQLrW9NkG5wSrWx_8kf0gQRHc) (spreadsheet)
