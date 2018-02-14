@@ -13,6 +13,9 @@
 			* {
 				color: #333;
 			}
+			#input {
+				font-family: Lucida Console, monospace;
+			}
 			#thePoem {
 				border: 1px solid #000;
 				width: fit-content;
@@ -63,8 +66,8 @@
 		<div id="thePoem">
 			<pre>T</pre><pre>h</pre><pre>i</pre><pre>s</pre><pre> </pre><pre>i</pre><pre>s</pre><pre> </pre><pre>M</pre><pre>y</pre><pre>s</pre><pre>.</pre><br /><pre>P</pre><pre>a</pre><pre>t</pre><pre>i</pre><pre>e</pre><pre>n</pre><pre>c</pre><pre>e</pre><pre> </pre><pre>w</pre><pre>o</pre><pre>n</pre><pre>'</pre><pre>t</pre><pre> </pre><pre>l</pre><pre>e</pre><pre>a</pre><pre>d</pre><pre> </pre><pre>y</pre><pre>o</pre><pre>u</pre><pre> </pre><pre>a</pre><pre>m</pre><pre>i</pre><pre>s</pre><pre>s</pre><pre>.</pre><br /><pre>F</pre><pre>o</pre><pre>r</pre><pre> </pre><pre>t</pre><pre>h</pre><pre>e</pre><pre> </pre><pre>d</pre><pre>o</pre><pre>c</pre><pre>s</pre><pre> </pre><pre>a</pre><pre>r</pre><pre>e</pre><pre> </pre><pre>f</pre><pre>o</pre><pre>u</pre><pre>n</pre><pre>d</pre><pre> </pre><pre>i</pre><pre>n</pre><pre> </pre><pre>t</pre><pre>h</pre><pre>e</pre><pre> </pre><pre>a</pre><pre>b</pre><pre>y</pre><pre>s</pre><pre>s</pre><pre>.</pre><br /><pre>D</pre><pre>o</pre><pre>n</pre><pre>'</pre><pre>t</pre><pre> </pre><pre>w</pre><pre>o</pre><pre>r</pre><pre>r</pre><pre>y</pre><pre>,</pre><pre> </pre><pre>a</pre><pre>s</pre><pre> </pre><pre>c</pre><pre>l</pre><pre>u</pre><pre>e</pre><pre>s</pre><pre> </pre><pre>a</pre><pre>r</pre><pre>e</pre><pre> </pre><pre>f</pre><pre>o</pre><pre>u</pre><pre>n</pre><pre>d</pre><pre> </pre><pre>a</pre><pre>l</pre><pre>l</pre><pre> </pre><pre>t</pre><pre>h</pre><pre>r</pre><pre>o</pre><pre>u</pre><pre>g</pre><pre>h</pre><pre> </pre><pre>t</pre><pre>h</pre><pre>i</pre><pre>s</pre><pre>.</pre>
 		</div>
-		<input type="text" id="input" placeholder="Enter Code Here.">
-		<input type="button" onclick="parseCode(document.getElementById('input').value)" value="Test Code.">
+		<input type="text" id="input" placeholder="Enter Code Here." oninput="(t=>{try{t.size=Math.max(t.value.length,20)}catch(t){}})(document.getElementById('input'))">
+		<input type="button" onclick="parseCode(document.getElementById('input').value)">
 		<div id="output"></div>
 		<div name="abyss" style="display: none"><p>haha, nice try.</p></div>
 	</body>
